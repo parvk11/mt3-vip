@@ -1,0 +1,3 @@
+[submodule "mt3"]
+	path = mt3
+	url = https://github.com/magenta/mt3.git
